@@ -10,3 +10,4 @@ seaborn
 scipy
 pandas
 folium
+streamlit
