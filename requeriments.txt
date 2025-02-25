@@ -1,0 +1,12 @@
+os
+rasterio
+matplotlib
+geopandas
+earthpy
+numpy 
+requests
+zipfile
+seaborn
+scipy
+pandas
+folium
